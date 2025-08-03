@@ -3,8 +3,13 @@ This project demonstrates how to simulate future stock prices using a Monte Carl
 
 
 🔧 Features
+
 -Simulates 1000+ stock price paths over 1 year
+
+
 -Uses Geometric Brownian Motion (GBM) for realistic modeling
+
+
 -Visualizes:
   Simulated daily stock paths
   Distribution of final prices
@@ -12,7 +17,11 @@ This project demonstrates how to simulate future stock prices using a Monte Carl
 
 
 📊 Use Cases
+
 Learn how Monte Carlo simulations work
+
 Explore the impact of volatility and drift on stock price outcomes
+
 Quantitative finance portfolio prep
+
 Add to a data science/finance GitHub portfolio
